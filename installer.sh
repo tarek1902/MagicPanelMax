@@ -13,4 +13,3 @@ echo "         UPLOADED BY TARK_HANFY    "
 killall -9 enigma2
 
 sleep 2;
-
