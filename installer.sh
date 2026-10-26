@@ -151,3 +151,4 @@ echo "          $PLUGIN_NAME INSTALLATION COMPLETE        "
 echo "===================================================="
 
 exit 0
+
