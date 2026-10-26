@@ -1,10 +1,10 @@
 #!/bin/sh
 
-# wget -qO - https://github.com/tarek1902/raw/refs/heads/main/MetrixPoster-By_MNASR/installer.sh | /bin/sh
+# wget -qO - https://github.com/tarek1902/raw/refs/heads/main/MagicPanelMax/installer.sh | /bin/sh
 
-PLUGIN_NAME="MetrixPoster"
+PLUGIN_NAME="MagicPanelMax"
 USERNAME="tarek1902"
-SUBPATH="MetrixPoster-By_MNASR"
+SUBPATH="MagicPanelMax"
 ARCHIVE_FILE="MetrixPoster-By_MNASR.tar.gz"
 
 PLUGIN_URL="https://github.com/${USERNAME}/${REPO}/raw/refs/heads/main/${SUBPATH}/${ARCHIVE_FILE}"
