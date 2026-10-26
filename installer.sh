@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# wget -qO - https://github.com/tarek1902/raw/refs/heads/main/MagicPanelMax/installer.sh | /bin/sh
+# wget -qO - https://raw.githubusercontent.com/tarek1902/MagicPanelMax/refs/heads/main/installer.sh
 
 PLUGIN_NAME="MagicPanelMax"
 USERNAME="tarek1902"
