@@ -5,7 +5,7 @@
 PLUGIN_NAME="MagicPanelMax"
 USERNAME="tarek1902"
 SUBPATH="MagicPanelMax"
-ARCHIVE_FILE="MetrixPoster-By_MNASR.tar.gz"
+ARCHIVE_FILE="MagicPanelMax_v12.0.tar.gz"
 
 PLUGIN_URL="https://github.com/${USERNAME}/${REPO}/raw/refs/heads/main/${SUBPATH}/${ARCHIVE_FILE}"
 
